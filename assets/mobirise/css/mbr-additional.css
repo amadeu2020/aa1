@@ -793,3 +793,19 @@ a {
   font-size: 1.4rem !important;
   color: #6592e6;
 }
+.cid-s8zIpcezlD {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-s8zIpcezlD .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-s8zIpcezlD .row {
+  flex-direction: row-reverse;
+}
+.cid-s8zIpcezlD img {
+  width: 100%;
+}
